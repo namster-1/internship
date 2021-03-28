@@ -105,3 +105,7 @@ select {
   text-align: center;
   margin-top: 300px;
 }
+.end-game h1 {
+  font-family: var(--main-font);
+  font-weight: 700;
+}
